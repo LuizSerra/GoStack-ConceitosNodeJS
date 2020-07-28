@@ -34,7 +34,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 $ git clone https://github.com/LuizSerra/GoStack-ConceitosNodeJS.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd gostack-fundamentos-node
+$ cd goStack-conceitosNodeJS
 ```
 ### :computer: Rodando a aplicação.
 
